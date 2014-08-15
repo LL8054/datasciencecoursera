@@ -5,3 +5,4 @@
 * hang pictures
 * birthday festivities (maybe)
 * blizzard fo sho
+* set up foscam
